@@ -1,1 +1,3 @@
-# Trying to scrape https://quotes.toscrape.com/
+# First attempt to scrape using requests and beautiful soup
+
+## url: https://quotes.toscrape.com/
